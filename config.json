@@ -1,0 +1,12 @@
+﻿{
+"db_connect":{
+	"creator": "pymssql",
+	"host": "127.0.0.1",
+	"port": 1466,
+	"user": "sa",
+	"password": "Gary0830",
+	"charset": "utf8",
+	"database": "Wiwynn_project",
+	"maxconnections": 10
+	}
+}
